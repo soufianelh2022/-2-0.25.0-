@@ -87,10 +87,12 @@
   "photo":"https://standoff-2.ru/wp-content/uploads/2019/05/aim-cheat.jpg"}
    ],
   
-  "more_apps_info":[
-  {"name":"app 1","package_name":"com.instagram.android","icon":"https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=w240-h480-rw"},
-
-  {"name":"app 2 ","package_name":"com.axlebolt.standoff2","icon":"https://play-lh.googleusercontent.com/61ljyfdEYCbnU7A6elnXT0_7vjrelZnGnisZWe6FzWN1HweY2rZi_9oDhv2z_2XKA6AF=s48-rw"}
+"more_apps_info":[
+  {"name":"стандофф кейсы","package_name":"com.modmenustandoff.playersmenustan","icon":"https://play-lh.googleusercontent.com/jDiOVRlaoyu-MZO-3vzz7aSWcCWG4AM7Q1dOIcyCXGPa72dxj3pl-U56k-f2VEKHqFU=w240-h480-rw"},
+  {"name":"стандофф 2 0.25.0 ","package_name":"com.updatestandoff.seasondownloadgame","icon":"https://play-lh.googleusercontent.com/WSEfDetXywCr2MBU256KomUDusYzqw-2GQxi0KWUeGaa7oVCku6jfyjw5vUZ-TwA=w240-h480-rw"},
+  {"name":"Кейс симулятор для Стандофф 2","package_name":"com.modmenustandoff.playersmenustan","icon":"https://play-lh.googleusercontent.com/4oTZgfWGsm0O2XOaEmsVbHwy78OpYG2MBublu9VxPj7zvuynnHFWCQSPZzuNwYMJ-g=w240-h480-rw"},
+  {"name":"стандофф Кейс ","package_name":"com.modmenustandoff.playersmenustan","icon":"https://play-lh.googleusercontent.com/2hGvCr4rwBITC9ubM2sfaNZ_EYUiZdq4-PrabI0joGN3TLjZqtFzEIUw14ZVe2ysGg=w240-h480-rw"},
+  {"name":"Case Simulator for Standoff 2","package_name":"com.modmenustandoff.playersmenustan","icon":"https://play-lh.googleusercontent.com/irq3BIH0eY8_MLa5rG-E0fRxsl5HazYj8wWKvG-ImgaRSEBl4vaI8RqB7GRVbesuobI=w240-h480-rw"}
    ]
  
 }
