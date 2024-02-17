@@ -4,7 +4,7 @@
 "unity_inter":"Interstitial_Android",
 "unity_banner":"Banner_Android",
 "unity_reward":"Rewarded_Android",
-"unity_gameid":"5082535",
+"unity_gameid":"1d904b80d",
   
   
 "applovin_inter":"269d73adeea133fb",
